@@ -1,1 +1,1 @@
-it's kind o cool to code.
+it's kind of cool to code.
