@@ -1,1 +1,1 @@
-my second commit
+it's kind o cool to code.
